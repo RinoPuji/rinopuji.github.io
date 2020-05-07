@@ -11,7 +11,7 @@ Untuk CSS kita boleh menggunakan 3 cara.
 
 #### Inline
 Biase kita gunakan untuk 1 element.
-```html
+```html,css
 <p style="color:blue;">Warna biru</p>
 ````
 #### Internal
