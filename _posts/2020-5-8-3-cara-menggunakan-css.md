@@ -9,8 +9,9 @@ Untuk CSS kita boleh menggunakan 3 cara.
   *Internal
   *External
 
-#####Inline
+##### Inline
 Biase kita gunakan untuk 1 element.
 ```html
 <p style="color:blue;">Warna biru</p>
+````
 
