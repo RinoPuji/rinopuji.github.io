@@ -16,12 +16,12 @@ Biase kita gunakan untuk 1 element.
 ````
 #### Internal
 Kita akan lampirkan di dalam ruangan `<head>`.
-````html
+```html
 <!DOCTYPE html>
 <html> 
 
  <head>
-  <style> !--Internal CSS
+  <style> <!--Internal CSS-->
    p {color:blue;}
   </style>
  </head>
@@ -30,3 +30,4 @@ Kita akan lampirkan di dalam ruangan `<head>`.
   <p>Warna biru</p>
  </body>
 </html>
+```
