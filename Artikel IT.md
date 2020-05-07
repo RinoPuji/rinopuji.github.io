@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Artikel IT
-permalink: /about/
+permalink: /artikelit/
 ---
 
 ### Senarai artikel berkaitan it
