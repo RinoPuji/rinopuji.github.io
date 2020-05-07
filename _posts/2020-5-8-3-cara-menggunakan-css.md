@@ -11,7 +11,7 @@ Untuk CSS kita boleh menggunakan 3 cara.
 
 #### Inline
 Biase kita gunakan untuk 1 element.
-```html,css
+```html
 <p style="color:blue;">Warna biru</p>
 ````
 #### Internal
@@ -31,5 +31,31 @@ Kita akan lampirkan di dalam ruangan `<head>`.
  <body>
   <p>Warna biru</p>
  </body>
+
 </html>
 ```
+#### External
+Untuk external kita akan buat satu file `mystyle.css` dan 
+pautkan file ni pada file utama (lampirkan dalam ruangan `<head>`).
+```html
+<!DOCTYPE html>
+<html>
+ 
+ <head>
+  <link rel="stylesheet" type="text/css" href="mystyle.css">
+ </head>
+  
+ <body>
+  <p>Warna biru</p>
+ </body>
+
+</html>
+```
+Untuk file `mystyle.css`,terus je letak code css.
+```css
+p {
+   color: blue;
+}
+```
+
+Pastikan file `mystyle.css` berada pada root directory.
