@@ -22,7 +22,7 @@ Kita akan lampirkan di dalam ruangan `<head>`.
 
  <head>
   <style> <!--Internal CSS-->
-   p {color:blue;}
+   p {color: blue;}
   </style>
  </head>
  
