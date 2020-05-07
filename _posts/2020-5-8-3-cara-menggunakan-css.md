@@ -9,9 +9,24 @@ Untuk CSS kita boleh menggunakan 3 cara.
   * Internal
   * External
 
-##### Inline
+#### Inline
 Biase kita gunakan untuk 1 element.
 ```html
 <p style="color:blue;">Warna biru</p>
 ````
+#### Internal
+Kita akan lampirkan di dalam ruangan `<head>`.
+````html
+<!DOCTYPE html>
+<html> 
 
+ <head>
+  <style> !--Internal CSS
+   p {color:blue;}
+  </style>
+ </head>
+ 
+ <body>
+  <p>Warna biru</p>
+ </body>
+</html>
