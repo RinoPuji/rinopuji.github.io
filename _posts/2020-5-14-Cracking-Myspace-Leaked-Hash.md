@@ -15,4 +15,6 @@ rokok John blend memikirkan cara nak login akaun myspace ni.Tengah
 sedap melayan hisap rokok barulah aku teringat myspace pernah mengalami 
 data breach pada tahun 2016.
 
-[https://www.google.com/amp/s/www.vice.com/amp/en_us/article/pgkk8v/427-million-myspace-passwords-emails-data-breach]
+https://www.google.com/amp/s/www.vice.com/amp/en_us/article/pgkk8v/427-million-myspace-passwords-emails-data-breach
+
+>The same hacker who was selling the data of more than 164 million LinkedIn users last week now claims to have 360 million emails and passwords of MySpace users, which would be one of the largest leaks of passwords ever.
