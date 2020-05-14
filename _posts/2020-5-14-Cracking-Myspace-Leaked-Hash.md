@@ -23,8 +23,16 @@ Bila mana aku baca antara data yang breach ialah email dan password,
 dalam otak aku,*Confirm email ngan password aku pun ade kat list ni,aku kena cari
 data ni.*
 
-Tanpa berlengah aku mulekan pencarian.Google lah ape lagi.Cari punyer 
-cari akhirnya aku jumpe satu keyword *'the cthulhu'*.
+Tanpa berlengah aku mulakan pencarian.Google lah ape lagi.Cari punyer 
+cari akhirnya aku jumpe satu keyword *'thecthulhu'*.Dia publish myspace
+data breach kat website dia
+
+(myspace.thecthulhu.com)[http://myspace.thecthulhu.com]
+
+Tetapi sayangnyer,apabila kita tekan link ni,yang keluar website ajar
+ayat pick up line pulak.Aduhhhh ape bende ni.
+
+
 
 
 
