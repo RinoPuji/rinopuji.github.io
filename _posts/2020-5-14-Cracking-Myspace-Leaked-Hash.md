@@ -27,10 +27,12 @@ Tanpa berlengah aku mulakan pencarian.Google lah ape lagi.Cari punyer
 cari akhirnya aku jumpe satu keyword *'thecthulhu'*.Dia publish myspace
 data breach kat website dia
 
-(myspace.thecthulhu.com)[http://myspace.thecthulhu.com]
+[myspace.thecthulhu.com](http://myspace.thecthulhu.com)
 
 Tetapi sayangnyer,apabila kita tekan link ni,yang keluar website ajar
-ayat pick up line pulak.Aduhhhh ape bende ni.
+ayat pick up line pulak.Aduhhhh ape bende ni.Hahaha.
+
+![thecthulhu](https://raw.githubusercontent.com/RinoPuji/rinopuji.github.io/master/images/IMG_20200514_224928.jpg)
 
 
 
