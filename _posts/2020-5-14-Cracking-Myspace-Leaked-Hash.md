@@ -18,3 +18,13 @@ data breach pada tahun 2016.
 <www.vice.com/amp/en_us/article/pgkk8v/427-million-myspace-passwords-emails-data-breach>
 
 >The same hacker who was selling the data of more than 164 million LinkedIn users last week now claims to have **360 million emails and passwords of MySpace users**, which would be one of the largest leaks of passwords ever.
+
+Bila mana aku baca antara data yang breach ialah email dan password,
+dalam otak aku,*Confirm email ngan password aku pun ade kat list ni,aku kena cari
+data ni.*
+
+Tanpa berlengah aku mulekan pencarian.Google lah ape lagi.Cari punyer 
+cari akhirnya aku jumpe satu keyword *'the cthulhu'*.
+
+
+
