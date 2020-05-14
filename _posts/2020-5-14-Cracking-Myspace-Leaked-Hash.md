@@ -10,7 +10,9 @@ ehhhh.Jadi aku ambik keputusan untuk download gambar2 lama aku dan
 tutup akaun myspace ni.
 
 Bila mana aku nak login,aku lupa semua detail.Email,password semua
-aku lupa.Ah sudah,macam mana aku login ni.Termenung aku sambil hisap
+aku lupa.Ah sudah,macam mana aku nak login ni.Termenung aku sambil hisap
 rokok John blend memikirkan cara nak login akaun myspace ni.Tengah
 sedap melayan hisap rokok barulah aku teringat myspace pernah mengalami 
 data breach pada tahun 2016.
+
+[https://www.google.com/amp/s/www.vice.com/amp/en_us/article/pgkk8v/427-million-myspace-passwords-emails-data-breach]
