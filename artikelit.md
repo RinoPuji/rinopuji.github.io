@@ -6,7 +6,7 @@ permalink: /artikelit/
 
 ### Senarai artikel berkaitan it
 
-[Ulangkaji CSS](https://rinopuji.github.io/Ulangkaji-CSS/)
+[Nota C++](https://rinopuji.github.io/Nota-C++/)
 
 [Nota Lua Ankulua](https://rinopuji.github.io/Nota-Lua-Ankulua/)
 
