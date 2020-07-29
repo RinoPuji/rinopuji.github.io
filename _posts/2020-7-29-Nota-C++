@@ -5,4 +5,5 @@ title:  Nota C++
 Apa tujuan coding ?
 -Menyelesaikan masalah
 
-Problem >> Idea to solve >> Design the idea >> Start Coding >> 
+Problem >> Idea to solve >> Design the solution >> Write program that implements the solution >>
+Compile the program >> Link object file >> Test program >> Debug
