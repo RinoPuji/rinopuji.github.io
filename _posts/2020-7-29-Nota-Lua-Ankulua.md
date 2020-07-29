@@ -11,7 +11,7 @@ while do
 --Statement
 end
 ````
-Contoh if 
+Contoh `if`
 
 ````lua
 --Hanya running sekali sahaja
