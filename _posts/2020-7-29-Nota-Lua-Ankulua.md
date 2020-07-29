@@ -3,7 +3,7 @@ layout:  post
 title:  Nota Lua Ankulua
 ---
 
-#### Nota untuk if dan while do
+#### Nota untuk `if` dan `while do`
 
 ````lua
 --Never ending loop
