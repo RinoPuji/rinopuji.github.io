@@ -17,7 +17,9 @@ Sebagai contoh : daripada **rinopuji.github.io** ke **rinopuji.com**.
 
 ****
 
-{% include toc.md %}
+**Senarai Kandungan**
+* TOC
+{:toc}
 
 ****
 ##  Domain Name
