@@ -11,5 +11,47 @@ Pada post kali ni aku akan akan menerangkan cara
 yang mudah untuk point custom domain name pada github
 page kita.
 
-Sebagai contoh :
-daripada rinopuji.github.io ke rinopuji.com
+Sebagai contoh : daripada **rinopuji.github.io** ke **rinopuji.com**.
+
+****
+Senarai Kandungan :
+****
+##  Domain Name
+
+Pertama sekali nak tukar custom domain name mestilah
+dah ade domain name.Pastikan kita mempunyai permission
+untuk tukar **Host Record** value pada domain tersebut.
+
+##  Jenis Domain
+**Jenis Domain** yang aku maksudkan ialah **Apex Domain** dan 
+**Sub Domain**.Rilex,jangan pening kepale.
+
+**Apex Domain** ialah _root domain_ atau _naked domain_.
+Domain yang tiada nama di depan.Senang cerita 
+aku panggil **Main Domain** atau dalam bahasa
+melayu **Domain Utama** Sebagai contoh,
+
+* gali.com
+* kucing.com
+* gagak.com
+
+**Sub Domain** pula ialah domain yang ada nama tambahan 
+di depan.
+
+* www.gali.com
+* blog.kucing.com
+* team1.gagak.com
+
+Jadi bagi situasi aku, **rinopuji.com** ialah **apex domain**,
+manakala **www.rinopuji.com** pula ialah subdomain.
+
+> **www** juga termasuk dalam **sub domain**.
+
+Info kat atas ni sangat penting.Sekiranya kita nak point
+
+
+## Cipta CNAME Record
+
+Langkah seterusnya,cipta satu **CNAME Record** baru 
+pada domain tersebut.
+
