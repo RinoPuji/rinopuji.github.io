@@ -3,6 +3,8 @@ layout:  post
 title:  Cara Point Custom Domain pada Github page
 tags:  jekyll domain
 permalink:  /cara-point-custom-domain-pada-github-page
+toc:  true
+toc-label:  "Senarai Kandungan"
 ---
 Dikemaskini pada 15/3/2021
 
@@ -15,6 +17,9 @@ Sebagai contoh : daripada **rinopuji.github.io** ke **rinopuji.com**.
 
 ****
 Senarai Kandungan :
+* TOC
+{:toc}
+
 ****
 ##  Domain Name
 
