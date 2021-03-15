@@ -16,9 +16,8 @@ page kita.
 Sebagai contoh : daripada **rinopuji.github.io** ke **rinopuji.com**.
 
 ****
-Senarai Kandungan :
-* TOC
-{:toc}
+
+{% include toc.md %}
 
 ****
 ##  Domain Name
