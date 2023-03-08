@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: #171717;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: #D8D8D8;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;
+  color: #D8D8D8;
   font-weight: bold;
 
   line-height: 1.7;
@@ -152,6 +152,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  background: #2B2B2B;
 }
 
 .masthead {
@@ -192,7 +193,8 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #F1F1F1;
+  text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 9px 7px 3px rgba(206,89,55,0);
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +204,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #D8D8D8;
   font-size: 16px;
 
   @include mobile {
@@ -225,7 +227,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #D8D8D8;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -275,7 +277,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #2B2B2B;
 }
 
 footer {
