@@ -157,7 +157,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  /* border-bottom: 1px solid $lightGray; */
 
   @include mobile {
     text-align: center;
@@ -217,6 +217,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
+  display: block;
 
   @include mobile {
     float: none;
@@ -275,7 +276,7 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
+ /* border-top: 1px solid #ddd; */
   border-bottom: 1px solid #ddd;
   background-color: #2B2B2B;
 }
@@ -284,6 +285,18 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+.social-icon1 {
+	border-top: 1px solid #F1F1F1;
+	border-bottom: 1px solid #F1F1F1;
+	text-align: center;
+	padding: 10px 0px 5px 0;
+}
+
+.credit1 {
+	font-size: 14px;
+}
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
