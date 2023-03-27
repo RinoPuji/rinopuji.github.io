@@ -2,11 +2,30 @@
 layout: default
 ---
 
+<!---
+SECTION LIST :
+1.Post Title
+2.Date Section
+-->
+
+<!--- 1.Post Title -->
 <article class="post">
   <h1>{{ page.title }}</h1>
   
+  <!--- 2.Date Section -->
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+  
+  <!--- Post date -->
+    Written on: {{ page.date | date: "%B %e, %Y" }}	
+	
+	</br>
+	
+	<!--- Update post date -->
+	{%- if page.last_modified_at -%}
+            Last updated: {{ page.last_modified_at | date: "%B %e, %Y" }}
+        {%- else -%}
+            Last updated: {{ page.date | date: "%B %e, %Y" }}
+        {%- endif -%}
   </div>
   
   <span>[

@@ -2,6 +2,7 @@
 layout: post
 title: You're up and running!
 tags: ransomware
+last_modified_at: 2023-03-25
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
