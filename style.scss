@@ -39,7 +39,9 @@ html {
 /* 2.Body background,font,color */
 body {
 	background: #171717;
-  font: 18px/1.4 $roboto;
+  font: 18px/1.4;
+  font-family: $rubik;
+  font-weight: 400;
   color: #D8D8D8;
 }
 
