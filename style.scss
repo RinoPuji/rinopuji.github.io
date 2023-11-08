@@ -43,7 +43,7 @@ body {
   font-family: $rubik;
   font-weight: 300;
   line-height: 1.6;
-  color: $darkerGray;
+  color: #686868;
 }
 
 /* 3.Container size */
@@ -235,7 +235,7 @@ imgcap
 .site-name {
   margin: 0;
   color: $darkGray;
-  text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 9px 7px 3px rgba(206,89,55,0);
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.71);
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -246,7 +246,7 @@ imgcap
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
-  text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 9px 7px 3px rgba(206,89,55,0);
+  text-shadow: 2px 2px 3px rgba(0,0,0,0.71);
   font-size: 16px;
 
   @include mobile {
@@ -346,7 +346,7 @@ footer {
 //For horizontal line
 hr 
 {
-	color: $darkGray;
+	color: #282828;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
