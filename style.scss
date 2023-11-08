@@ -38,12 +38,12 @@ html {
 
 /* 2.Body background,font,color */
 body {
-	background: #171717;
+	background: $white;
   font-size : 18px;
   font-family: $rubik;
   font-weight: 300;
   line-height: 1.6;
-  color: #D8D8D8;
+  color: #darkGray;
 }
 
 /* 3.Container size */
@@ -57,7 +57,7 @@ body {
 /* 4.H1,H2,H3,H4,H5,H6 font,color */
 h1, h2, h3, h4, h5, h6 {
   font-family: $rubik;
-  color: #D8D8D8;
+  color: $darkerGray;
   font-weight: 900;
 
   line-height: 1.7;
@@ -234,7 +234,7 @@ imgcap
 
 .site-name {
   margin: 0;
-  color: #F1F1F1;
+  color: $darkGray;
   text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 9px 7px 3px rgba(206,89,55,0);
   cursor: pointer;
   font-family: $helveticaNeue;
@@ -245,7 +245,7 @@ imgcap
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #F1F1F1;
+  color: $gray;
   text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 9px 7px 3px rgba(206,89,55,0);
   font-size: 16px;
 
