@@ -43,7 +43,7 @@ body {
   font-family: $rubik;
   font-weight: 300;
   line-height: 1.6;
-  color: #darkGray;
+  color: $darkerGray;
 }
 
 /* 3.Container size */
@@ -193,7 +193,7 @@ imgcap
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background: #2B2B2B;
+  background: $white;
 }
 
 .masthead {
@@ -329,19 +329,25 @@ footer {
   text-align: center;
 }
 
-.social-icon1 {
+.social-icon1
+{
 	border-top: 1px solid #F1F1F1;
 	border-bottom: 1px solid #F1F1F1;
 	text-align: center;
 	padding: 10px 0px 5px 0;
 }
 
-.credit1 {
+.credit1 
+{
 	font-size: 14px;
 	color: #F1F1F1;
     text-shadow: 0 0 15px rgba(255,255,255,.5), 0 0 10px rgba(255,255,255,.5), 9px 7px 3px rgba(206,89,55,0);
 }
 
+hr //Horizontal Line
+{
+	color: $darkGray:
+}
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
