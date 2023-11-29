@@ -1,8 +1,8 @@
 ---
-layout:  post
-title:  Cara Install ReRoll F1VM
-tags:  monopolygo,f1vm,reroll
-last_modified_at:  2023-11-29
+layout: post
+title: Cara Install ReRoll F1VM
+tags: monopolygo, f1vm, reroll
+last_modified_at: 2023-11-29
 ---
 
 Assalamualaikum dan salah sejahtera kepada pembaca,tak perlu pendahuluan yang panjang,kita straight to the point je la.
