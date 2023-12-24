@@ -141,6 +141,15 @@ img {
   max-width: 100%;
 }
 
+img.centered
+{
+  width: 70%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 /* 11.img caption */
 imgcap
 {	
@@ -157,7 +166,7 @@ imgcap
 
 /* 13.Date */
 .date {
-  font-size: 18px;
+  font-size: 16px;
   color: $gray;
 }
 
@@ -300,7 +309,7 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid #808080;
     padding: 0.1em 1em;
     color: #A6ACAF;
     font-size: 18px;
