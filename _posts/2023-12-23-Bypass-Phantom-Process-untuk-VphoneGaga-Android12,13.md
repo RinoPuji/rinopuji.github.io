@@ -34,5 +34,7 @@ p/s : Aku recommend korang untuk video ni kat hp korang,senang untuk korang paus
 
 > Note 4 : Untuk pengguna **COLOR OS (Vivo/OnePlus)**, sila disablekan **Permission Monitoring** dalam **Developer Options**.
 
+> Note 5 : Huawei/Honor minta maaf.Ni antara model hp yang tak sesuai untuk tweaking sama macam iphone.Jadi korang test la sendiri.
+
 Sekiranya korang menggunakan Vphonegaga ni untuk bermain monopoly go,sila baca post di bawah untuk aku terangkan macam mana nak setup monopoly dengan facebook dalam vphonegaga.
 
