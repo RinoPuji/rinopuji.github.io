@@ -26,9 +26,7 @@ Untuk installation dan "Activation" ataupun "Bypass Phantom Process",aku malas t
 
 p/s : Aku reccomend korang untuk video ni kat hp korang,senang untuk korang pause,forward dan backward.
 
-<a href="https://lh3.googleusercontent.com/drive-viewer/AEYmBYQgjKQ5PirDP3KaJbK12ZZeF3ihfXYOxP8VZGfRbPc6bsjst9DgCQF-YbL8sd9FrCoCIsdepoOR68MP_l2RJUpFYa9LVg=s2560?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYQgjKQ5PirDP3KaJbK12ZZeF3ihfXYOxP8VZGfRbPc6bsjst9DgCQF-YbL8sd9FrCoCIsdepoOR68MP_l2RJUpFYa9LVg=s2560" /> </a>
-
-![downloadvideotoyourphone241223](https://lh3.googleusercontent.com/drive-viewer/AEYmBYQgjKQ5PirDP3KaJbK12ZZeF3ihfXYOxP8VZGfRbPc6bsjst9DgCQF-YbL8sd9FrCoCIsdepoOR68MP_l2RJUpFYa9LVg=s2560)
+![downloadvideotoyourphone241223](https://lh3.googleusercontent.com/drive-viewer/AEYmBYQgjKQ5PirDP3KaJbK12ZZeF3ihfXYOxP8VZGfRbPc6bsjst9DgCQF-YbL8sd9FrCoCIsdepoOR68MP_l2RJUpFYa9LVg=s2560){:width="70%"}
 
 > Note 3 : Untuk pengguna **MIUI (Poco/Xiaomi)** sila enablekan **USB Debugging** di bawah **Security Options** dalam **Developer Options**.
 
