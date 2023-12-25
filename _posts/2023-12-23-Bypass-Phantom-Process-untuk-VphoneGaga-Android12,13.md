@@ -26,7 +26,7 @@ Untuk installation dan "Activation" ataupun "Bypass Phantom Process",aku malas t
 
 > NOTE 2 : Untuk pengguna Android di bawah 12,anda tak perlu buat **Bypass** ni.Just straight masuk vphonegaga.
 
-p/s : Aku recommend korang untuk video ni kat hp korang,senang untuk korang pause,forward dan backward.
+p/s : Aku recommend korang untuk download video ni kat hp korang,senang untuk korang pause,forward dan backward.
 
 ![downloadvideotoyourphone241223](https://lh3.googleusercontent.com/drive-viewer/AEYmBYQgjKQ5PirDP3KaJbK12ZZeF3ihfXYOxP8VZGfRbPc6bsjst9DgCQF-YbL8sd9FrCoCIsdepoOR68MP_l2RJUpFYa9LVg=s2560){:.centered}
 
