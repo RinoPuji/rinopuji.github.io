@@ -348,7 +348,7 @@ footer
 	padding: 10px 0px 5px 0;
 }
 
-/* Svg Icon */
+/* === Svg Icon === */
 .fa-youtube , .fa-facebook , .fa-envelope , .fa-discord
 {
   font-size: 40px;
@@ -356,6 +356,22 @@ footer
   height: 40px;
   display: inline-block;
 }
+
+.fa-youtube
+{
+    color : #FF0000;
+}
+
+.fa-discord
+{
+    color : #7289d9;
+}
+
+.fa-envelope
+{
+    color : #EA4335;
+}
+
 
 .credit1 
 {
