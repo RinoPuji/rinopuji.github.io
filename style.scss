@@ -39,9 +39,9 @@ html {
 /* 2.Body background,font,color */
 body {
 	background: #161A30;
-  font-size : 18px;
-  font-family: $rubik;
-  font-weight: 300;
+  font-size : 17px;
+  font-family: 'Open sans' , sans-serif;
+  font-weight: 400;
   line-height: 1.6;
   color: #F0ECE5;
 }
@@ -56,9 +56,9 @@ body {
 
 /* 4.H1,H2,H3,H4,H5,H6 font,color */
 h1, h2, h3, h4, h5, h6 {
-  font-family: $rubik;
-  color: $darkerGray;
-  font-weight: 900;
+  font-family: 'Open Sans' , sans-serif;
+  color: #F0ECE5;
+  font-weight: 700;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -71,14 +71,14 @@ h1, h2, h3, h4, h5, h6 {
 
 /* 5.H1,H2,H3,H4,H5,H4 Font size */
 h1 {
-  font-size: 35px;
+  font-size: 30px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 27px;
+  font-size: 25px;
 }
 
 h3 {
@@ -166,8 +166,8 @@ imgcap
 
 /* 13.Date */
 .date {
-  font-size: 16px;
-  color: $gray;
+  font-size: 14px;
+  color: #F0ECE5;
 }
 
 // Specify the color of the selection
@@ -202,7 +202,7 @@ imgcap
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background: $white;
+  background: #161A30;
 }
 
 .masthead {
