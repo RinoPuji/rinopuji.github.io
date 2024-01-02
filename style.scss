@@ -39,7 +39,7 @@ html {
 /* 2.Body background,font,color */
 body {
 	background: #31304D;
-  font-size : 17px;
+  font-size : 18px;
   font-family: 'Josefin Sans' , sans-serif;
   font-weight: 400;
   line-height: 1.6;
@@ -244,18 +244,18 @@ imgcap
 .site-name {
   margin: 0;
   color: #F0ECE5;
-  text-shadow: 2px 2px 3px rgba(0,0,0,0.71);
+  text-shadow: 2px 2px 2px #F0ECE5, 2px 2px 5px #F0ECE5;;
   cursor: pointer;
-  font-family: $helveticaNeue;
-  font-weight: 300;
+  font-family: 'Josefin sans' , sans-serif;
+  font-weight: 700;
   font-size: 28px;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $darkGray;
-  text-shadow: 2px 2px 3px rgba(0,0,0,0.71);
+  color: #B6BBC4;
+  text-shadow: 2px 2px 2px #F0ECE5, 2px 2px 5px #F0ECE5;;
   font-size: 16px;
 
   @include mobile {
@@ -309,9 +309,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid #A0A0A0;
+    border-left: 3px solid #A0A0A0;
     padding: 0.1em 1em;
-    color: #696969;
+    color: #B6BBC4;
     font-size: 17px;
     font-style: italic;
   }
@@ -331,7 +331,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid $darkGray; 
   border-bottom: 1px solid #ddd;
-  background-color: $white;
+  background-color: #161A30;
 }
 
 footer 
@@ -346,6 +346,7 @@ footer
 	border-bottom: 1px solid $darkGray;
 	text-align: center;
 	padding: 10px 0px 5px 0;
+	background-color: #161A30;
 }
 
 /* === Svg Icon === */
@@ -371,13 +372,13 @@ footer
 {
     color : #EA4335;
 }
-
+/* === svg icon end here === */
 
 .credit1 
 {
     font-size: 14px;
-    color: $darkGray;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.71);
+    color: #B6BBC4;
+    text-shadow: 2px 2px 2px #F0ECE5, 2px 2px 5px #F0ECE5;;
 }
 
 //For horizontal line
