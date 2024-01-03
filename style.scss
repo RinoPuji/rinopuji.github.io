@@ -244,7 +244,7 @@ imgcap
 .site-name {
   margin: 0;
   color: #F0ECE5;
-  text-shadow: 2px 2px 2px #F0ECE5, 2px 1px 7px rgba(240,236,229,0.54);
+  text-shadow: 2px 2px 6px rgba(240,236,229,0.43);
   cursor: pointer;
   font-family: 'Josefin sans' , sans-serif;
   font-weight: 700;
@@ -255,7 +255,7 @@ imgcap
 .site-description {
   margin: -5px 0 0 0;
   color: #B6BBC4;
-  text-shadow: 2px 2px 2px #F0ECE5, 2px 1px 7px rgba(240,236,229,0.54);
+  text-shadow: 2px 2px 6px rgba(240,236,229,0.43);
   font-size: 16px;
 
   @include mobile {
@@ -346,6 +346,8 @@ footer
 	border-bottom: 1px solid $darkGray;
 	text-align: center;
 	/* padding: 10px 0px 5px 0; */
+	padding-top: 5px;
+	padding-bottom: 10px;
 	background-color: #161A30;
 }
 
@@ -378,7 +380,7 @@ footer
 {
     font-size: 14px;
     color: #B6BBC4;
-    text-shadow: 2px 2px 2px #F0ECE5, 2px 1px 7px rgba(240,236,229,0.54);
+    text-shadow: 2px 2px 6px rgba(240,236,229,0.43);
 }
 
 //For horizontal line
