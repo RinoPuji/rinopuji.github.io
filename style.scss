@@ -41,7 +41,7 @@ body {
 	background: #31304D;
   font-size : 18px;
   font-family: 'Josefin Sans' , sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.6;
   color: #EEEEEE;
 }
@@ -314,25 +314,31 @@ nav {
 }
 
 /* 14.Blockquote */
-.post {
-  blockquote {
+.post 
+{ /* == .post */
+  blockquote 
+  { /* == blockquote */
+    font-family: 'Josefin Sans' , sans-serif;
+    font-weight: 600;
     margin: 1.8em .8em;
     border-left: 3px solid #A0A0A0;
     padding: 0.1em 1em;
     color: #B6BBC4;
     font-size: 17px;
     font-style: italic;
-  }
+  } /* == blockquote end */
 
-  .comments {
+  .comments 
+   { /* == .comments */
     margin-top: 10px;
-  }
+   } /* == .comments end */
 
-  .read-more {
+  .read-more 
+  {  /* == .red-more */
     text-transform: uppercase;
     font-size: 15px;
-  }
-}
+  } /* == .read-more end */
+} /* == .post end */
 
 .wrapper-footer 
 {
