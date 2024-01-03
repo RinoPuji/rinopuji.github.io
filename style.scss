@@ -224,7 +224,6 @@ imgcap
     float: none;
     display: block;
     margin: 0 auto;
-    padding-bottom: 20px;
   }
 
   img {
@@ -251,6 +250,12 @@ imgcap
   font-weight: 700;
   font-size: 28px;
   letter-spacing: 1px;
+
+  /* For mobile view */
+  @include mobile 
+  {
+     padding-top: 10px;
+  }
 }
 
 .site-description {
