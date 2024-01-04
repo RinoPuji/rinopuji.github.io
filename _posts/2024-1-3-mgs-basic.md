@@ -29,10 +29,14 @@ Bermula dari sini,pastikan anda dah ada application **Telegram**.Semua file dan 
 ## 5. FUNGSI UTAMA MGS
 Fungsi utama MGS ialah membantu anda untuk **berpatah balik ke tempat asal sebelum anda roll dadu**.Pengguna app "Reroll" dan juga kepada sesiapa yang dah tahu trick on,off,clear data dah semestinya paham konsep ni.Sila rujuk video di bawah tentang penggunaan MGS.
 
-**[VIDEO 1 : CONTOH PENGGUNAAN MGS BASIC]**
+**[VIDEO 1 : CONTOH PENGGUNAAN MGS BASIC](https://test.com.my){:target="_blank"}**
 
-## 5. CARA INSTALL MG 1
-Sila rujuk video di bawah dan tentang cara download dan installation untuk **MG 1**.
+## 5. CARA INSTALL MG1
+**MG1** ialah file Monopoly GO yang khas untuk apps **MGS**.2 file ni berganding.Tanpa 2 file ni,salah satu takkan berfungsi.
+
+Kenape ?.... Nanti saye akan buat satu post untuk explain.
+
+Sila rujuk video di bawah untuk panduan cara download dan installation untuk **MG 1**.
 
 **[VIDEO 2 : CARA INSTALL MG1 CLIENT](httls://www.test.com){:target="_blank"}**
 
