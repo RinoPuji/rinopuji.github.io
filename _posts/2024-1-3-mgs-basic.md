@@ -42,9 +42,17 @@ Sila rujuk video di bawah untuk panduan cara download dan installation untuk **M
 
 Selepas siap install MG1,sila install pula MGS Basic.Sila rujuk video di bawah.
 
-**[VIDEO 3 : CARA INSTALL MGS BASIC](https://test.com.my){:target="_blank"}
+**[VIDEO 3 : CARA INSTALL MGS BASIC](https://test.com.my){:target="_blank"}**
 
 Untuk file MG 1 dan MGS Basic,anda boleh dapatkan kat sini :
 
 **[FILE MG 1 + MGS BASIC V2.5](https://t.me/+916x0odcxsQyNDBl){:target="_blank"}**
 
+## 6. LAGI CARA PENGGUNAAN MGS
+Sekali lagi saya akan tunjukkan cara penggunaan **MGS BASIC** ni,sila lihat video di bawah.
+
+[VIDEO 4 : LAGI CONTOH PENGGUNAAN MGS BASIC](https://www.test.com.mh){:target="_blank"}**
+
+Dengan 4 video ni sepatutnya anda dah boleh tahu cara guna **MGS**.Sekiranya anda berminat membeli **MGS MULTI EDITION**,anda boleh pergi ke post di bawah.
+
+[MGS MULTI EDITION](https://hwher.com.my){:target="_blank"}
