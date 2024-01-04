@@ -38,5 +38,5 @@ Sila rujuk video di bawah dan tentang cara download dan installation untuk **MG 
 
 Untuk file MG 1 dan MGS Basic,anda boleh dapatkan kat sini :
 
-**[FILE MG 1 + MGS BASIC V2.5(https://t.me/+916x0odcxsQyNDBl){:target="_blank"}**
+**[FILE MG 1 + MGS BASIC V2.5](https://t.me/+916x0odcxsQyNDBl){:target="_blank"}**
 
