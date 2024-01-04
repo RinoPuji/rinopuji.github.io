@@ -40,6 +40,10 @@ Sila rujuk video di bawah untuk panduan cara download dan installation untuk **M
 
 **[VIDEO 2 : CARA INSTALL MG1 CLIENT](httls://www.test.com){:target="_blank"}**
 
+Selepas siap install MG1,sila install pula MGS Basic.Sila rujuk video di bawah.
+
+**[VIDEO 3 : CARA INSTALL MGS BASIC](https://test.com.my){:target="_blank"}
+
 Untuk file MG 1 dan MGS Basic,anda boleh dapatkan kat sini :
 
 **[FILE MG 1 + MGS BASIC V2.5](https://t.me/+916x0odcxsQyNDBl){:target="_blank"}**
