@@ -65,4 +65,4 @@ Untuk pengguna **Basic Edition**,langkah tukar akaun monopoly go untuk **MG1** i
 
 Sila rujuk video di bawah :
 
-[VIDEO 5 : CARA TUKAR AKAUN MONOPOLY GO UNTUK MG1](https://t.me/c/2117155274/24){:target="_blank"}
+**[VIDEO 5 : CARA TUKAR AKAUN MONOPOLY GO UNTUK MG1](https://t.me/c/2117155274/24){:target="_blank"}**
