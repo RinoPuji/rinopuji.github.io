@@ -33,7 +33,7 @@ The installation process is actually simple and straightforward.This are 2 file 
 
 ## 3. Installation
 After succesfully downloading this 2 files,locate this 2 files.
-![mge and mgse at download folder](https://photos.app.goo.gl/56bXFU5W14nh3t9PA){:.centered}
+![mge and mgse at download folder](https://lh3.googleusercontent.com/pw/ABLVV844UhdED9sfvV2MdDvDG4ljj_V-4mDFvnfNkwPIAz3IrA8GTItrpsuid42W0VbG8TjMVazG6P20X-Czm_qdQ79ItvxJk1snrYcP6ypHxMu9H9xIgk4=w2400){:.centered}
 
 ### 3.1. Installing MGe v1.16.0 apps
 -The first step is installing **MGe** application.It should not a problem for most of user.After installation finish,just exit first and go to next step.
@@ -64,4 +64,10 @@ Usually we will using facebook apps for login.But for **MGe**,we need to use **c
 
 1. Open chrome and go to facebook.com
 2. Login with our facebook account on chrome
-3. On we successfully login our facebook to chrome,close chrome application and lauch **MGe** to connect our account.
+3. Once we successfully login our facebook to chrome,close chrome application and launch **MGe** to connect our account.
+<div class="embed-container">
+<iframe width="932" height="1484" src="https://www.youtube.com/embed/2LX3rAp1-VA" title="Login monopoly account at MGe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+### 4.1 Let monopoly data finish downloading
+- After we login,let the game open for download all the data or we will ecounter pop up **"No internet connection message"** too often.In normal circumstance,the timeframe for "connection server check" is 60second.If you got this pop up too fast after turning off your data/wifi,please check this toubleshooting post 
