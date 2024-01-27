@@ -12,7 +12,7 @@ MGSe help us to minimize our dice usage by expoiting current monopoly vulnerabil
 
 I made short video for you to see example of how this "time machine" work,pay attention on my position,current dice and what will happen when i click **Reset** Button :
 
-{% include youtubePlayer.html id=mOjlXIOrlNg?si=9swt21VFhwEvTtC3 %}
+{% include youtubePlayer.html id=9swt21VFhwEvTtC3 %}
 
 Now we should can clearly see why i call this apps is just like "time machine".When we goes back to our last state before,we will get back the dice that we already spent on that move.
 
