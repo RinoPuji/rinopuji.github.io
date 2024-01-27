@@ -38,7 +38,7 @@ html {
 
 /* 2.Body background,font,color */
 body {
-	background: #31304D;
+	background: #434242;
   font-size : 18px;
   font-family: $helvetica;
   line-height: 1.6;
@@ -203,7 +203,7 @@ imgcap
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background: #161A30;
+  background: #222222;
 }
 
 .masthead {
@@ -344,7 +344,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid $darkGray; 
   border-bottom: 1px solid #ddd;
-  background-color: #161A30;
+  background-color: #222222;
 }
 
 footer 
@@ -361,7 +361,7 @@ footer
 	/* padding: 10px 0px 5px 0; */
 	padding-top: 5px;
 	padding-bottom: 10px;
-	background-color: #161A30;
+	background-color: #222222;
 }
 
 /* === Svg Icon === */
@@ -407,4 +407,4 @@ hr
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-@import "video-embed";
+@import "video-embed;
