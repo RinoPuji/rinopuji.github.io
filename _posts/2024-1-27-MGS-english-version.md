@@ -12,8 +12,11 @@ MGSe help us to minimize our dice usage by expoiting current monopoly vulnerabil
 
 I made short video for you to see example of how this "time machine" work,pay attention on my position,current dice and what will happen when i click **Reset** Button :
 
-{% include youtubePlayer.html id=page.9swt21VFhwEvTtC3 %}
+{% include youtubePlayer.html id=page.mOjlXIOrlNg?si=9swt21VFhwEvTtC3 %}
 
+Now we should can clearly see why i call this apps is just like "time machine".When we goes back to our last state before,we will get back the dice that we already spent on that move.
+
+This is how we can minimize the usage of our dice we use for completing the event.Only targeting tiles that give us a point for event.Goes back or reset back if we did not land on non event tiles.Repeat this process until we finish the event.
 
 
 
