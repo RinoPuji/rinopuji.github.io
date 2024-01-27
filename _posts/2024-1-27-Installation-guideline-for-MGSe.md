@@ -70,4 +70,25 @@ Usually we will using facebook apps for login.But for **MGe**,we need to use **c
 </div>
 
 ### 4.1 Let monopoly data finish downloading
-- After we login,let the game open for download all the data or we will ecounter pop up **"No internet connection message"** too often.In normal circumstance,the timeframe for "connection server check" is 60second.If you got this pop up too fast after turning off your data/wifi,please check this toubleshooting post 
+- After we login,let the game open for download all the data or we will ecounter pop up **"No internet connection message"** too often.In normal circumstance,the timeframe for "connection server check" is 60second.If you got this pop up too fast after turning off your data/wifi,please check this toubleshooting post (sorry under construction)
+
+## 5. Step for playing with MGSe
+At here,we already done this 3 step,
+1. Installing MGe v1.16.0
+2. Installing MGSe v1.4
+3. Login our mono account at MGe application
+
+Now for you are ready to playing monopolygo with MGSe.
+
+The instruction is simple :
+1. Launch MGSe and press start.It will automatically start MGe apps.
+2. You will see some **status icon** at top.Press it to bring the menu.
+3. Before you roll your dice,press **status bar** icon,it will help you to bring down your status bar.Turn on/off your data before your roll.
+4. Roll the dice.If its not landing on the tiles we desired,press **Reset** button.If its land on the tiles that we desired,press **Save** button.
+5. Everytime we press **Reset** or **Save** button,it will automatically close and relaunch MGe application.Do not forget to on your data/wifi back or it the game will not load due server connection check.I provide more example of the usage on this video below :
+<div class="embed-container">
+<iframe width="932" height="1484" src="https://www.youtube.com/embed/DTMitF657j4" title="More example for mgse usage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+## 6. Auto AP ON/OFF
+Due to limitation on stock android device,there some setting we need to tweak for be able using auto AP mode.I will hold this first in the next update.
