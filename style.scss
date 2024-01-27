@@ -9,28 +9,6 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
-/**************/
-/* BASE RULES */
-/**************/
-
-/*
-SENARAI KANDUNGAN : 
-1.Html font size
-2.Body background,font,color
-3.Container size
-4.H1,H2,H3,H4,H5,H6 font,color
-5.H1,H2,H3,H4,H5,H4 Font size
-6.p margin
-7.a link
-8.ul,ol
-9.em i , strong b
-10.img
-11.img caption
-12.Fix image google translate
-13.Date
-14.Blockquote
-*/
-
 /* 1.Html font size */
 html {
   font-size: 100%;
@@ -38,7 +16,7 @@ html {
 
 /* 2.Body background,font,color */
 body {
-	background: #45474B;
+	background: #272829;
   font-size : 17px;
   font-family: $helvetica;
   line-height: 1.6;
