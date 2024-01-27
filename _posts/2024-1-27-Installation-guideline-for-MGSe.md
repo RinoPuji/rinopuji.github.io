@@ -16,7 +16,7 @@ This is MGS english version,for Bahasa Malaysia,kindly join this telegram channe
 This is guideline for installing **MGSe** at your device.I recommend you check this post below first : 
 **[Monopoly Script English Version](https://rinopuji.com/MGS-english-version/#4-disadvantage-of-mgse){:target="_blank"}**
 
-Just read this 4 topic and come back to here for getting a bit understanding about this application :
+Just read this 4 topic and come back here again for getting a bit understanding about this application :
 
 1. What is MGSe
 2. The main function of MGSe
@@ -78,14 +78,14 @@ At here,we already done this 3 step,
 2. Installing MGSe v1.4
 3. Login our mono account at MGe application
 
-Now for you are ready to playing monopolygo with MGSe.
+Now we are ready to playing monopolygo with MGSe.
 
 The instruction is simple :
 1. Launch MGSe and press start.It will automatically start MGe apps.
 2. You will see some **status icon** at top.Press it to bring the menu.
 3. Before you roll your dice,press **status bar** icon,it will help you to bring down your status bar.Turn on/off your data before your roll.
 4. Roll the dice.If its not landing on the tiles we desired,press **Reset** button.If its land on the tiles that we desired,press **Save** button.
-5. Everytime we press **Reset** or **Save** button,it will automatically close and relaunch MGe application.Do not forget to on your data/wifi back or it the game will not load due server connection check.I provide more example of the usage on this video below :
+5. Everytime we press **Reset** or **Save** button,it will automatically close and relaunch MGe application.Do not forget to on your data/wifi back or the game will not load due server connection check.I provide more example of the usage on this video below :
 <div class="embed-container">
 <iframe width="932" height="1484" src="https://www.youtube.com/embed/DTMitF657j4" title="More example for mgse usage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
