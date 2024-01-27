@@ -12,15 +12,21 @@ MGSe help us to minimize our dice usage by expoiting current monopoly vulnerabil
 
 I made short video for you to see example of how this "time machine" work,pay attention on my position,current dice and what will happen when i click **Reset** Button :
 
-{% include youtubePlayer.html id=page.mOjlXIOrlNg %}
+{% include youtubePlayer.html id=mOjlXIOrlNg %}
 
 Now we should can clearly see why i call this apps is just like "time machine".When we goes back to our last state before,we will get back the dice that we already spent on that move.
 
-This is how we can minimize the usage of our dice we use for completing the event.Only targeting tiles that give us a point for event.Goes back or reset back if we did not land on non event tiles.Repeat this process until we finish the event.
+> This is how we can minimize the usage of our dice we use for completing the event.Only targeting tiles that give us a point for event.Goes back or reset back if we did not land on non event tiles.Repeat this process until we finish the event.
 
-## 3. Advantages MGSe
-The main advantage for this apps is this app not required 
+## 3. Advantage of MGSe
+The main advantage for this apps is this app not required our device to be rooted.Most of the user using VM for gaining rooted environment because direct rooting is not easy to do.
 
+This apps is created for solving often crash problem when using a VM in our device.
+
+> p/s : VM that i means is Android Virtual Machine.Not solely on Virtual Master.There are many varity of Android Virtual machine that available like vmos,vphonegaga,virtual master,f1vm etc.
+
+## 4. Disadvantage of MGSe
+Because this apps is running on unrooted device or stock device,this apps only have a limited function due to security limitation on stock device.
 
 
 
