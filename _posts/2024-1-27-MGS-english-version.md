@@ -1,74 +1,94 @@
 ---
 layout:  post
-title:  MGS English Version
+title:  Intallation Guideline for MGSe
 tags:  android monopolygo
 last_modified_at:  2024-1-27
 ---
+
+This is MGS english version,for Bahasa Malaysia,kindly join this telegram channel :
+**[MONOPOLY GO SCRIPT MY](https://t.me/mgscriptnoroot){:target="_blank"}**
 
 **TABLE OF CONTENT**
 * TOC
 {:toc}
 
-## 1. What is MGSe ?
-MGSe is stand for **Monopoly Go Script** and the letter **e** is for english version.This apps will help us **minimizing** the usage of dice we use when completing the event at MonopolyGo game.Because is just more on "automation" and to save my time,this apps actually just a simple automation script that i made using "tasker".
+## 1. Introduction
+This is guideline for installing **MGSe** at your device.I recommend you check this post below first : 
+**[Monopoly Script English Version](https://rinopuji.com/MGS-english-version/#4-disadvantage-of-mgse){:target="_blank"}**
 
-## 2. The main function of MGSe
-MGSe help us to minimize our dice usage by expoiting current monopoly vulnerability that the dev still not fix.This apps will help us to "return back to our last position" if we did not wan the latest tile or position.Just think this apps just like a "time machine" that can help us "goes back to past" if we do not get the place that we wan in monopolygo game.
+Just read this 4 topic and come back to here for getting a bit understanding about this application :
 
-I made short video for you to see example of how this "time machine" work,pay attention on my position,current dice and what will happen when i click **Reset** Button :
+1. What is MGSe
+2. The main function of MGSe
+3. Advantage of MGSe
+4. Disadvantage of MGSe
 
-<div class="embed-container"><iframe width="963" height="1712" src="https://www.youtube.com/embed/mOjlXIOrlNg" title="Example usage for MGSe 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+## 2. Required Files
+The installation process is actually simple and straightforward.This are 2 file you need :
 
-Now we should can clearly see why i call this apps is just like "time machine".When we goes back to our last state before,we will get back the dice that we already spent on that move.
+1. **MGe version 1.16.0** **[Download here](https://www.mediafire.com/file/7yz3w10p88oc5sa/MGe-1.16.0.apk/file){:target=_blank}**
+2. **MGSe v1.4** **[Download here](https://www.mediafire.com/file/endra8tdgwb921j/MGSe_v1.4.apk/file)**
 
-> This is how we can minimize the usage of our dice we use for completing the event.Only targeting tiles that give us a point for event.Goes back or reset back if we did not land on non event tiles.Repeat this process until we finish the event.
+> Why need to download this 2 files ? If you wan to know in technical term please refer this post **[Topic 6 : Explanation on why we need to use MGe + MGSe](https://rinopuji.com/MGS-english-version/#6-explanation-on-why-we-need-to-use-mge--mgse){:target=_blank}**
 
-## 3. Advantage of MGSe
-The main advantage for this apps is : 
-- This app not required our device to be rooted.Some apps with similar like this need a rooted environment for it to work.And most of non-tech user will just using a VM and installing SU inside their VM.
+## 3. Installation
+After succesfully downloading this 2 files,locate this 2 files.
+![mge and mgse at download folder](https://lh3.googleusercontent.com/pw/ABLVV844UhdED9sfvV2MdDvDG4ljj_V-4mDFvnfNkwPIAz3IrA8GTItrpsuid42W0VbG8TjMVazG6P20X-Czm_qdQ79ItvxJk1snrYcP6ypHxMu9H9xIgk4=w2400){:.centered}
 
-This apps is created for solving often crash problem when using a VM in our device.
+### 3.1. Installing MGe v1.16.0 apps
+-The first step is installing **MGe** application.It should not a problem for most of user.After installation finish,just exit first and go to next step.
+<div class="embed-container">
+<iframe width="963" height="1712" src="https://www.youtube.com/embed/fbluesDCB3w" title="Installing MGe file" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-> p/s : VM that i means is Android Virtual Machine.Not solely on Virtual Master.There are many varity of Android Virtual machine that available like vmos,vphonegaga,virtual master,f1vm etc.
+### 3.2. Installing MGSe v1.4 apps
+-Now we need to install **MGSe**.This is **MANDATORY** step.After finish installing the file,please "open" the apps and **allow display over other application** permission.Press back and exit the apps.
+<div class="embed-container">
+<iframe width="963" height="1712" src="https://www.youtube.com/embed/V3Q302r-3-g" title="Installing MGSe and allow display over other application" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-## 4. Disadvantage of MGSe
-Because this apps is running on unrooted device or stock device,this apps only have a limited function due to security limitation on stock device.But the most important thing,the function for roll/reset back to the last state is working.
+### 3.3 Tips 1
+Put this 2 application to place that easy to access.
+<div class="embed-container">
+<iframe width="963" height="1712" src="https://www.youtube.com/embed/-iIwqy9RfkM" title="Tips 1 : Put this 2 apps on the place tht easy to access" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-## 5. File and Installation Guideline
-To avoid making this post become long,i have seperated the posting at **[Installation Guideline for MGSe](https://rinopuji.com/Installation-guideline-for-MGSe/){:target=_blank}**
+### 3.4 Tips 2
+This 2 apps will produce annoying notification.The solution is just turn of notification for this 2 application.
+<div class="embed-container">
+<iframe width="963" height="1712" src="https://www.youtube.com/embed/e9FwQfRAs2k" title="Tips 2 : Disable notification for this 2 application" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-## 6. Explanation on why we need to use MGe + MGSe
-On the installation guideline post,i clearly state that we need to installing 2 application,
+## 4. Login monopolygo account on MGe application
+Usually we will using facebook apps for login.But for **MGe**,we need to use **chrome**,here the step :
 
-1. MGe 
-2. MGSe
+1. Open chrome and go to facebook.com
+2. Login with our facebook account on chrome
+3. Once we successfully login our facebook to chrome,close chrome application and launch **MGe** to connect our account.
+<div class="embed-container">
+<iframe width="932" height="1484" src="https://www.youtube.com/embed/2LX3rAp1-VA" title="Login monopoly account at MGe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-### 6.1 MGe
-This file is actually just a monopoly go application that i modify to be pair and work with MGSe.
+### 4.1 Let monopoly data finish downloading
+- After we login,let the game open for a while for download all the data or we will ecounter pop up **"No internet connection message"** too often.In normal circumstance,the timeframe for "connection server check" is 60second.If you got this pop up too fast after turning off your data/wifi,please check this toubleshooting post (sorry under construction)
 
-### 6.2 MGSe
-This file contain the scripting to help exploting the vulnerability bug in monopoly go game.
+## 5. Step for playing with MGSe
+At here,we already done this 3 step,
+1. Installing MGe v1.16.0
+2. Installing MGSe v1.4
+3. Login our mono account at MGe application
 
-> MGSe only work on MGe.This 2 need to be paired.It not work on another monopoly go application like the speed mod etc and it also not work foe original monopolgo application.
+Now we are ready to playing monopolygo with MGSe.
 
-### 6.3 More depth explanation
-The **"key"** for "reset" bug/trick is lay on the "restricted folder" or easy said a "fobidden folder".
+The instruction is simple :
+1. Launch MGSe and press start.It will automatically start MGe apps.
+2. You will see some **status icon** at top.Press it to bring the menu.
+3. Before you roll your dice,press **status bar** icon,it will help you to bring down your status bar.Turn on/off your data before your roll.
+4. Roll the dice.If its not landing on the tiles we desired,press **Reset** button.If its land on the tiles that we desired,press **Save** button.
+5. Everytime we press **Reset** or **Save** button,it will automatically close and relaunch MGe application.Do not forget to on your data/wifi back or it the game will not load due server connection check.I provide more example of the usage on this video below :
+<div class="embed-container">
+<iframe width="932" height="1484" src="https://www.youtube.com/embed/DTMitF657j4" title="More example for mgse usage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-> From here on,i will using "ReRoll application" from Edward as comparison.To be honest,i am not saying MGSe is better rather than ReRoll or ReRoll is better rather than MGSe.I just use "ReRoll" as comparison because most of us who playing trick surely know about this apps.So it make it easy to explaning thing.
-
-In order to access this folder,we have many option,but i will just explaining with 2 option to avoid this post become a long post....
-
-1. **Rooting our device**
-- The common way to accessing this "restricted folder" is by rooting our device.I know some user here already know about "ReRoll" application by Edward (Go search discord group,*monopolygosecret").
-- For using ReRoll,the requirement for using this apps is by installing VM.The purpose for installing VM is for getting root access,that why you also need to install SuperSu in the VM.
-- Without a VM,you need to **direct rooting** your device by patching ramdisk and this process is totally confusing for non technical user.
-<br>
-2. **Modified R/W root folder permission for the application**
-- The other work around for accessing this "restricted folder" is by modifying the READ and WRITE root folder permission inside the application itself.
-- This is what i do on the MGe apps to accessing the "restricted folder" for monopolygo data without root environment.
-
-In short,ReRoll will work on original mono application from playstore including the speed mod,etc but it will required you to have "root environment".Either you use a VM or direct rooting your device.
-
-While MGSe will work on your stock device but it required you to use MGe that i already modified the permission to gaining access to "restricted folder".
-
-> This 2 application produce a same result but the method for this 2 application accomplish the result is totally different.
+## 6. Auto AP ON/OFF
+Due to limitation on stock android device,there some setting we need to tweak for be able using auto AP mode.I will hold this first in the next update.
