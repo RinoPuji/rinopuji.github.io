@@ -71,4 +71,4 @@ In short,ReRoll will work on original mono application from playstore including 
 
 While MGSe will work on your stock device but it required you to use MGe that i already modified the permission to gaining access to "restricted folder".
 
-This 2 application produce a same result but the method for this 2 application accomplish the result is totally different.
+> This 2 application produce a same result but the method for this 2 application accomplish the result is totally different.
