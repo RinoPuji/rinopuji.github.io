@@ -6,7 +6,7 @@ last_modified_at:  2024-1-27
 ---
 
 This is MGS english version,for Bahasa Malaysia,kindly join this telegram channel :
-**[MONOPOLY GO SCRIPT MY]**(https://t.me/mgscriptnoroot){:target="_blank"}
+**[MONOPOLY GO SCRIPT MY](https://t.me/mgscriptnoroot){:target="_blank"}**
 
 **TABLE OF CONTENT**
 * TOC
@@ -14,8 +14,7 @@ This is MGS english version,for Bahasa Malaysia,kindly join this telegram channe
 
 ## 1. Introduction
 This is guideline for installing **MGSe** at your device.I recommend you check this post below first : 
-
-**[Monopoly Script English Version]**(https://rinopuji.com/MGS-english-version/#4-disadvantage-of-mgse){:target="_blank"} 
+**[Monopoly Script English Version](https://rinopuji.com/MGS-english-version/#4-disadvantage-of-mgse){:target="_blank"}**
 
 Just read this 4 topic and come back to here for getting a bit understanding about this application :
 
@@ -24,58 +23,36 @@ Just read this 4 topic and come back to here for getting a bit understanding abo
 3. Advantage of MGSe
 4. Disadvantage of MGSe
 
-## 2. Required Fail
+## 2. Required Files
 The installation process is actually simple and straightforward.There are 2 file you need :
 
-1. MGe
-2. MGSe
+1. **[MGe](https://www.mediafire.com/file/7yz3w10p88oc5sa/MGe-1.16.0.apk/file){:target=_blank}**
+2. **[MGSe](https://www.mediafire.com/file/endra8tdgwb921j/MGSe_v1.4.apk/file)**
 
-### 1. MGe 
-- MGe is just monopolygo application that i modified to make it work for MGSe.
+> Why need to download this 2 files ? If you wan to know in technical term please refer this post **[Topic 6 : Explanation on why we need to use MGe + MGSe](https://rinopuji.com/MGS-english-version/#6-explanation-on-why-we-need-to-use-mge--mgse){:target=_blank}**
 
-### 2. MGSe
-- MGSe is the application that containing the script for exploting the "reset" bug of monopoly go game or what most of player say "trick".
+## 3. Installation
+After succesfully downloading this 2 files,locate this 2 files.
+!(https://photos.app.goo.gl/56bXFU5W14nh3t9PA){:.centered}
 
-For your information,MGe will not work with another application similar to MGSe.And it also applied to MGSe,it will not gonna work with another monopoly apps including the original one.MGe and MGSe need to be pair.
+### 3.1. The first step is installing **MGe** application.It should not a problem for most of user.After installation finish,just exit first and go to next step.
+<div class="embed-container">
+<iframe width="963" height="1712" src="https://www.youtube.com/embed/fbluesDCB3w" title="Installing MGe file" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-> Why MGSe not work with original mono ? Why MGSe not work on another modified mono like the speed one ?
+### 3.2. Now we need to install **MGSe**.This is **MANDATORY** step.After finish installing the file,please "open" the apps and **allow display over other application** permission.Press back and exit the apps.
+<div class="embed-container">
+<iframe width="963" height="1712" src="https://www.youtube.com/embed/V3Q302r-3-g" title="Installing MGSe and allow display over other application" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-If you really know the technical explanation,please refer this post below :
+### 3.3 Tips 1
+Put this 2 application to place that easy to access.
+<div class="embed-container">
+<iframe width="963" height="1712" src="https://www.youtube.com/embed/-iIwqy9RfkM" title="Tips 1 : Put this 2 apps on the place tht easy to access" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-
-
-
-
-
-Kenape ?.... Nanti saye akan buat satu post untuk explain.
-
-Sila rujuk video di bawah untuk panduan cara download dan installation untuk **MG 1**.
-
-**[VIDEO 2 : CARA INSTALL MG1 CLIENT](https://t.me/c/2117155274/21){:target="_blank"}**
-
-Selepas siap install MG1,sila install pula MGS Basic.Sila rujuk video di bawah.
-
-**[VIDEO 3 : CARA INSTALL MGS BASIC](https://t.me/c/2117155274/22){:target="_blank"}**
-
-Untuk file MG 1 dan MGS Basic,anda boleh dapatkan kat sini :
-
-**[MONOPOLY GO SCRIPT MY]**(https://t.me/mgscriptnoroot){:target="_blank"}**
-
-## 6. LAGI CARA PENGGUNAAN MGS
-Sekali lagi saya akan tunjukkan cara penggunaan **MGS BASIC** ni,sila lihat video di bawah.
-
-**[VIDEO 4 : LAGI CONTOH PENGGUNAAN MGS BASIC](https://t.me/c/2117155274/23){:target="_blank"}**
-
-## 7. CARA TUKAR MONOPOLY GO AKAUN UNTUK MG1
-
-Untuk pengguna **Basic Edition**,langkah tukar akaun monopoly go untuk **MG1** ialah seperti berikut :
-
-1. Pergi ke google chrome
-2. Log out facebook akaun semasa 
-3. Log in semula menggunakan facebook akaun yang lain.
-4. Pergi ke MG1 setting dan clear data.
-5. Masuk semula MG1 dan login untuk akaun yang lain.
-
-Sila rujuk video di bawah :
-
-**[VIDEO 5 : CARA TUKAR AKAUN MONOPOLY GO UNTUK MG1](https://t.me/c/2117155274/24){:target="_blank"}**
+### 3.4 Tips 2
+This 2 apps will produce annoying notification.The solution is just turn of notification for this 2 application.
+<div class="embed-container">
+<iframe width="963" height="1712" src="https://www.youtube.com/embed/e9FwQfRAs2k" title="Tips 2 : Disable notification for this 2 application" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
