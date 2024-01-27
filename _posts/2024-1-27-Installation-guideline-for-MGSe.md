@@ -70,7 +70,7 @@ Usually we will using facebook apps for login.But for **MGe**,we need to use **c
 </div>
 
 ### 4.1 Let monopoly data finish downloading
-- After we login,let the game open for download all the data or we will ecounter pop up **"No internet connection message"** too often.In normal circumstance,the timeframe for "connection server check" is 60second.If you got this pop up too fast after turning off your data/wifi,please check this toubleshooting post (sorry under construction)
+- After we login,let the game open for a while for download all the data or we will ecounter pop up **"No internet connection message"** too often.In normal circumstance,the timeframe for "connection server check" is 60second.If you got this pop up too fast after turning off your data/wifi,please check this toubleshooting post (sorry under construction)
 
 ## 5. Step for playing with MGSe
 At here,we already done this 3 step,
