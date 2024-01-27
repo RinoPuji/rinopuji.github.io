@@ -35,7 +35,34 @@ This apps is created for solving often crash problem when using a VM in our devi
 Because this apps is running on unrooted device or stock device,this apps only have a limited function due to security limitation on stock device.But the most important thing,the function for roll/reset back to the last state is working.
 
 ## 5. File and Installation Guideline
-To avoid making this post become long,i have seperated the posting at 
+To avoid making this post become long,i have seperated the posting at **[Installation Guideline for MGSe](https://rinopuji.com/Installation-guideline-for-MGSe/){:target=_blank}**
 
-**[VIDEO 1 : CONTOH PENGGUNAAN MGS BASIC](https://t.me/c/2117155274/20){:target="_blank"}**
+## 6. Explanation on why we need to use MGe + MGSe
+On the installation guideline post,i clearly state that we need to installing 2 application,
 
+1. MGe 
+2. MGSe
+
+### 6.1 MGe
+This file is actually just a monopoly go application that i modify to be pair and work with MGSe.
+
+### 6.2 MGSe
+This file contain the scripting to help exploting the vulnerability bug in monopoly go game.
+
+> MGSe only work on MGe.This 2 need to be paired.It not work on another monopoly go application like the speed mod etc and it also not work foe original monopolgo application.
+
+### 6.3 More depth explanation
+The **"key"** for "reset" bug/trick is lay on the "restricted folder" or easy said a "fobidden folder".
+
+> From here on,i will using "ReRoll application" from Edward as comparison.To be honest,i am not saying MGSe is better rather than ReRoll or ReRoll is better rather than MGSe.I just use "ReRoll" as comparison because most of us who playing trick surely know about this apps.So it make it easy to explaning thing.
+
+In order to access this folder,we have 2 option.
+
+1. **Rooting our device**
+- The common way to accessing this "restricted folder" is by rooting our device.I know some user here already know about "ReRoll" application by Edward (Go search discord group,*monopolygosecret").
+- For using ReRoll,the requirement for using this apps is by installing VM.The purpose for installing VM is for getting root access,that why you also need to install SuperSu in the VM.
+- Without a VM,you need to **direct rooting** your device by patching ramdisk and this process is totally confusing for non technical user.
+
+2. **Modified R/W root folder permission for the application**
+- The other work around for accessing this "restricted folder" is by modifying the READ and WRITE root folder permission inside the application itself.
+- This is what i do on the MGe apps that i modified.That why other monopolygo account will not work with MGSe.
