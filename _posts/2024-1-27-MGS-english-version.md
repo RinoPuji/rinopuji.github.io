@@ -56,13 +56,19 @@ The **"key"** for "reset" bug/trick is lay on the "restricted folder" or easy sa
 
 > From here on,i will using "ReRoll application" from Edward as comparison.To be honest,i am not saying MGSe is better rather than ReRoll or ReRoll is better rather than MGSe.I just use "ReRoll" as comparison because most of us who playing trick surely know about this apps.So it make it easy to explaning thing.
 
-In order to access this folder,we have 2 option.
+In order to access this folder,we have many option,but i will just explaining with 2 option to avoid this post become a long post....
 
 1. **Rooting our device**
 - The common way to accessing this "restricted folder" is by rooting our device.I know some user here already know about "ReRoll" application by Edward (Go search discord group,*monopolygosecret").
 - For using ReRoll,the requirement for using this apps is by installing VM.The purpose for installing VM is for getting root access,that why you also need to install SuperSu in the VM.
 - Without a VM,you need to **direct rooting** your device by patching ramdisk and this process is totally confusing for non technical user.
-
+<br>
 2. **Modified R/W root folder permission for the application**
 - The other work around for accessing this "restricted folder" is by modifying the READ and WRITE root folder permission inside the application itself.
-- This is what i do on the MGe apps that i modified.That why other monopolygo account will not work with MGSe.
+- This is what i do on the MGe apps to accessing the "restricted folder" for monopolygo data without root environment.
+
+In short,ReRoll will work on original mono application from playstore including the speed mod,etc but it will required you to have "root environment".Either you use a VM or direct rooting your device.
+
+While MGSe will work on your stock device but it required you to use MGe that i already modified the permission to gaining access to "restricted folder".
+
+This 2 application produce a same result but the method for this 2 application accomplish the result is totally different.
