@@ -27,7 +27,7 @@ Just read this 4 topic and come back here again for getting a bit understanding 
 The installation process is actually simple and straightforward.This are 2 file you need :
 
 1. **MGe version 1.16.0** **[Download here](https://www.mediafire.com/file/7yz3w10p88oc5sa/MGe-1.16.0.apk/file){:target=_blank}**
-2. **MGSe v1.4** **[Download here](https://www.mediafire.com/file/endra8tdgwb921j/MGSe_v1.4.apk/file)**
+2. **MGSe v1.4** **[Download here](https://www.mediafire.com/file/hnkq7ci3ki6b5qs/MGSe_v1.5.apk/file)**
 
 > Why need to download this 2 files ? If you wan to know in technical term please refer this post **[Topic 6 : Explanation on why we need to use MGe + MGSe](https://rinopuji.com/MGS-english-version/#6-explanation-on-why-we-need-to-use-mge--mgse){:target=_blank}**
 
