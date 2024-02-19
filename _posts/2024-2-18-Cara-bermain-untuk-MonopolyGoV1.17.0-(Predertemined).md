@@ -66,12 +66,12 @@ Dalam video result roll ke-2 untuk x100 ialah ***7***.Ingat nombor ni.
  
 <div class="embed-container"><iframe width="963" height="1712" src="https://www.youtube.com/embed/8oDvwr4_FJ0" title="Video 4 : MonopolyGo v1.17.0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
-Dalam video di atas result untuk 1srRoll(secondMultiplier) ialah ***8***.
+Dalam video di atas result untuk 1stRoll(secondMultiplier) ialah ***8***.
     
 Kita dah dapat nilai bagi 
-- 2ndRoll(firstMultiplier) = 8 (x100)
-- 1stRoll(secondMultiplier) = 7 (x1)
-- 8 + 7 = ***15***.
+- 2ndRoll(firstMultiplier) = 7 (x100)
+- 1stRoll(secondMultiplier) = 8 (x1)
+- 7 + 8 = ***15***.
 
 Selepas sehaja kita roll x1,sekiranya kita tukar kembali multiplier kepada x100,kita akan beralih ***15*** petak dari kedudukan asal kita.
 
@@ -89,18 +89,10 @@ Seperti mana kita tahu,setiap multiple mempunyai result yang berbeza.Bila mana t
 
 > Ini jer ? Baik men hentam je....Macam lagi buang mase je....
 
-Sabar.....ni hanya sekadar basic di mana kita hanya 1-2 langkah sahaja.Bila mana anda dah paham berkaitan basic ni,next saye akan explain macam mana anda nak "target" satu tempat yang anda nak.
+Sabar.....ni hanya sekadar basic di mana kita hanya 1-2 langkah sahaja.Bila mana anda dah paham berkaitan basic ni,anda dah boleh slow2 gayakan sendiri macam mane nak target tapak/tiles yang di hendaki.
 
 ==============
 TOPIK 2 TAMAT
 ==============
-
-## Topik 3 : Cara kita setup untuk landing ke tapak/tiles yang kita nak
-
-Baiklah,bermula dari sini,saye anggap anda dah paham berkaitan basic macam mane kita intai atau cari tahu kita landing dekat tapak/tiles yang mana.
-
-Saya tak nak buat anda pening kepala,jadi ikut je dulu langkah saya,next bile dah paham,gayakan sendiri dengan cara permainan anda.Pertama sekali buka apa-apa note application yang ada dalam hp anda dan salin format di bawah ke dalam note anda.
-
-![gambar3_19_2_2024](https://i.ibb.co/wWptt1k/IMG-20240219-121224.jpg){:.centered}
 
 *Bersambung.....*
