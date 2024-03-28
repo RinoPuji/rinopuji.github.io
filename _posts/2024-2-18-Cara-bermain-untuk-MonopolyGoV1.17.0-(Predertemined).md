@@ -6,7 +6,7 @@ last_modified_at:  2024-2-18
 ---
 Seperti mane yang semua sedia tahu,untuk update version v1.17.0,roll yang sebelum ni "Random" dah bertukar kepada "Predetermined".Tak kisah la berapa banyak kali pun kita reroll/reset,result yang kita akan dapat tidak berubah.Setiap multiplier mempunyai result sendiri yang tetap.
 
-Saye akan share beberapa cara basic supaya anda dapat kembangkan sendiri mengikut gaya permainan anda.
+<div class="aboveToc">Saye akan share beberapa cara basic supaya anda dapat kembangkan sendiri mengikut gaya permainan anda.</div>
 
 **TABLE OF CONTENT**
 * TOC
