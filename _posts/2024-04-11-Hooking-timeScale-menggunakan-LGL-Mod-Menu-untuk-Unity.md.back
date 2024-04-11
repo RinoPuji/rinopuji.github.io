@@ -1,0 +1,42 @@
+---
+layout:  post
+title:  Hooking timeScale menggunakan LGL Mod Menu untuk Unity
+tags:  android c++
+last_modified_at:  2024-04-12
+---
+<div class = "aboveToc">
+Pada post kali ni saya akan berkongsi kaedah yang saya gunakan untuk 
+mengubah suai animation "speed" pada game yang di bina menggunakan Unity engine dengan menggunakan properties `timeScale`.</div>
+
+**TABLE OF CONTENT**
+* TOC
+{:toc}
+
+## Topik 1 : Pendahuluan
+Sedikit pendahuluan,untuk kita berjaya buat bende ni,terus terang saye tekankan sekurang-kurangya anda perlu ada basic berkaitan c++.Sekurang-kurangnya kita perlu tahu memebezakan mane satu function,mane variable,mane satu method dan term2 yang lain.
+
+## Topic 2 : timeScale pada Unity
+
+Seperti mana yang lain,saye pun baru-baru lagi berkaitan Unity.Jadi,satu pesanan dan teguran untuk diri saya dan rakan-rakan yang lain,untuk memahami sesuatu topik/niche,kita kena rajin membaca.Tak kisah apa2 pon topik/niche kunci utamanya ialah mencari,membaca dan take action (practice).
+
+Dan seperti yang lain juga,saye struggle selama 2-3 hari untuk mencari tahu kaedah yang orang lain gunakan untuk buat **"speed hack"** pada unity game.
+
+> Satu suggestion yang saye ingin kongsi,sekiranya kita "stuck",cara tercepat untuk memehami dan memepelajari sesuatu ialah dengan membaca **documentation**.Dalam topik ni,membaca documentation berkaitan Unity jauh lebih baik berbanding menghabiskan masa kita dengan search "How to hack Unity","How to hack game blablabla" and so on.Dengan documentation,kita akan dapat idea bagaimana structure game Unity terbentuk dan dapat mengenal pasti structure2 yang berpotensi untuk di ubah suai.
+
+`timeScale` ialah salah satu properties umum yang ada pada Unity engine yang mengawal **masa** serta **kelajuan pergerakan** untuk Animation.Ada banyak 
+lagi sebenarnyer properties yang mengawal masa serta kelajuan pergerakan animation pada Unity seperti `deltaTime`,`unscaleDeltaTime`,`fixedDeltaTime` dan lain-lain lagi yang berada di dalam **class** `Time` pada `UnityEngine.CoreModule`.
+
+> **Class** tu ape ? Dalam programming,**class** ialah sebuah template bagi `variable` serta `method` untuk sesuatu object.
+
+Merujuk kepada [Unity Documentation](https://docs.unity3d.com/ScriptReference/Time-timeScale.html),variable `timeScale` ialah properties yang paling berpotensi untuk di gunakan bagi tujuan menambahkan atau mengurangkan masa sesebuah animation.
+
+> `timeScale` can be used for slow motion effects or to speed up your application. When timeScale is 1.0, time passes as fast as real time. When timeScale is 0.5 time passes 2x slower than realtime.
+
+## Topic 3 : Hooking timeScale
+Untuk mengubah suai kelajuan animation bagi tujuan "speed hack",kita perlu menggunakan kaedah **Hooking**.Untuk kebanyakan unity game,kita akan jumpa method yang menggunakan properties `timeScale` seperti di bawah :
+
+
+
+
+
+
